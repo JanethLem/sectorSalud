@@ -1,0 +1,24 @@
+body{
+    background: url("../img/fondo2.jpg");
+    background-attachment: fixed;
+}
+
+#logo {
+    background: #03a9f4; 
+}
+
+#menu ul li:hover {
+    background: #03a9f4;
+}
+
+.button-more {
+    background-color:#03a9f4;
+}
+
+.image{
+    margin: auto;
+    display: block;
+    max-width: 120px;
+    border-right: 20px;
+    text-align: center;
+}
